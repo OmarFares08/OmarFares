@@ -38,4 +38,4 @@ A Unity collection of mini games:
 
 ## 🔗 Connect With Me
 
-* LinkedIn: [Your LinkedIn]
+* LinkedIn: www.linkedin.com/in/omar-fares-54969a423
